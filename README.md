@@ -31,7 +31,7 @@
  
 </div>
 
-## Connect With Me
+## 🔗 Connect With Me
 <a href="mailto:d4bajaj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 
 <a href="www.linkedin.com/in/dhruv-bajaj-6593002b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
  <a href="https://instagram.com/dhruvvv_1307" target="_blank">
@@ -65,6 +65,15 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+# GitHub Stats
+## 📊 GitHub Stats
+
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvbajaj13&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbajaj13&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhruvbajaj13&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
 
 
 
