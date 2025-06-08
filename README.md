@@ -6,9 +6,7 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1200&lines=%F0%9F%93%98+Currently+Learning+DSA;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Currently+Working+on+MERN+Stack&cacheBuster=12345" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=%F0%9F%93%98+Currently+Learning+DSA;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Currently+Working+on+MERN+Stack)](https://git.io/typing-svg)
 
 
 
