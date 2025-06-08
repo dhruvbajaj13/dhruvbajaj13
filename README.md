@@ -69,11 +69,11 @@
 # GitHub Stats
 ## 📊 GitHub Stats
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvbajaj13&show_icons=true&theme=github_dark)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvbajaj13&show_icons=true&theme=default&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbajaj13&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbajaj13&layout=compact&theme=default&bg_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhruvbajaj13&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhruvbajaj13&theme=default&bg_color=ffffffdate_format=M%20j%5B%2C%20Y%5D)
 
 
 
