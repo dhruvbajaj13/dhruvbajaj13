@@ -14,7 +14,7 @@
 ##  About Me
 
 
-<table>
+<table border="0">
  <tr>
   <td>
   - 🧑‍🎓 **Electronics and Communication Engineering (IoT)** student at **[Netaji Subhas University of Technology](http://nsut.ac.in/en/home)**
