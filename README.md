@@ -11,19 +11,16 @@
 
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🧑‍🎓 I’m a 2nd-year B.Tech student at *NSUT, majoring in **Electronics and Communication Engineering (IoT)*  
+- 🧑‍🎓 **Electronics and Communication Engineering (IoT)* student at **[Netaji Subhas University of Technology](http://nsut.ac.in/en/home)**
 - 💻 Passionate about *Full Stack Web Development* and *DSA*
-- 🚀 Currently working on a project called *Splitr* – an AI-powered expense-sharing app using *Next.js, **TypeScript, **Tailwind CSS, and **Convex*
-- 🔭 Actively learning and building in the *MERN Stack*
-- 🌱 Also diving into *Cloud Computing* and *DevOps* (AWS, Azure)
-- 🧠 Member of the *NSUT Coding Society*
-- 🎯 Goal: To become a strong *Software Engineer* ready for impactful internships and roles
+- 👨‍💻 Actively learning and building projects in the *MERN Stack*(MongoDB, Express.js, React, and Node.js)
+- 🔭 Looking to collaborate on Web development Projects
+- 🌱 Love Exploring New Technologies.
+  😃 Feel free to check out my repositories and Contact me.
 
----
 
-> 💡 “Code. Build. Repeat.” – My daily mantra.
 
 
 
