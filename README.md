@@ -17,7 +17,8 @@
 - 💻 Passionate about **Full Stack Web Development** and **DSA**.
 - 👨‍💻 Actively learning and building projects in the **MERN Stack**(MongoDB, Express.js, React, and Node.js)
 - 🔭 Looking to collaborate on Web development Projects.
-- 🌱 Love Exploring New Technologies.  😃 Feel free to check out my repositories and Contact me.
+- 🌱 Love Exploring New Technologies. <br>
+  😃 Feel free to check out my repositories and Contact me.
 
 
 
