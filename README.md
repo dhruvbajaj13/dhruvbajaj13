@@ -4,6 +4,10 @@
   
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=📘+Currently+Learning+DSA;🧑‍💻+Full+Stack+Developer;🚀+Currently+Working+on+MERN+Stack" alt="Typing SVG" />
+</div>
+
 
 
 <!--
