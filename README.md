@@ -13,19 +13,31 @@
 
 ##  About Me
 
-- 🧑‍🎓 **Electronics and Communication Engineering (IoT)** student at **[Netaji Subhas University of Technology](http://nsut.ac.in/en/home)**
-  
-- 💻 Passionate about **Full Stack Web Development** and **DSA**.
-  
-- 👨‍💻 Actively learning and building projects in the **MERN Stack**(MongoDB, Express.js, React, and Node.js)
-  
-- 🔭 Looking to collaborate on Web development Projects.
-  
-- 🌱 Love Exploring New Technologies. <br>
 
-  😃 Feel free to check out my repositories and Contact me.
+<table>
+ <tr>
+  <td>
+  - 🧑‍🎓 **Electronics and Communication Engineering (IoT)** student at **[Netaji Subhas University of Technology](http://nsut.ac.in/en/home)**
+  
+  - 💻 Passionate about **Full Stack Web Development** and **DSA**.
+  
+  - 👨‍💻 Actively learning and building projects in the **MERN Stack**(MongoDB, Express.js, React, and Node.js)
+  
+  - 🔭 Looking to collaborate on Web development Projects.
+  
+  - 🌱 Love Exploring New Technologies. <br>
 
+    😃 Feel free to check out my repositories and Contact me.
 
+   
+  </td>
+  <td>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250px"/>
+   
+  </td>
+  
+ </tr>
+</table>
 
 
 
