@@ -66,8 +66,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-# GitHub Stats
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvbajaj13&show_icons=true&theme=default&bg_color=ffffff)
 
