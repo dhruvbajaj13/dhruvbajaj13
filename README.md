@@ -33,7 +33,7 @@
 
 ## 🔗 Connect With Me
 <a href="mailto:d4bajaj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 
-<a href="www.linkedin.com/in/dhruv-bajaj-6593002b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
+<a href="https://www.linkedin.com/in/dhruv-bajaj-6593002b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
  <a href="https://instagram.com/dhruvvv_1307" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a> 
