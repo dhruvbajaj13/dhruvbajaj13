@@ -30,19 +30,12 @@
  
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvbajaj13&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvbajaj13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvbajaj13" alt="dhruvbajaj13" /></a> </p>
-
 ## 🔗 Connect With Me
 <a href="https://linkedin.com/in/dhruvbajaj13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-bajaj" height="30" width="40" /></a>
-<a href="mailto:d4bajaj@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="d4bajaj@gmail.com" height="30" width="40" />
 </a>
 <a href="https://www.leetcode.com/dhruvvv1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvv1307" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dhruvvv1307" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvvv1307" height="30" width="40" />
-</a>
+<a href="https://instagram.com/dhruvvv_1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvvv_1307" height="30" width="40" /></a>
+</p>
 
 <br />
 <br />
