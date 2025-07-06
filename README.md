@@ -37,9 +37,7 @@
 <a href="https://instagram.com/dhruvvv_1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvvv_1307" height="30" width="40" /></a>
 </p>
 
-<br />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 # TechStack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 
 <p>
