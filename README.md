@@ -3,8 +3,8 @@
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Dhruv Bajaj</h1>
   
 </div>
+
 ![Profile views](https://komarev.com/ghpvc/?username=dhruvbajaj13&color=blue&style=flat)
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&center=true&vCenter=true&width=600&height=65&lines=%F0%9F%93%98+Currently+Learning+DSA;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Currently+Working+on+MERN+Stack)](https://git.io/typing-svg)
 
