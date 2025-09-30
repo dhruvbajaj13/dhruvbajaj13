@@ -34,7 +34,9 @@
 </a>
 <a href="https://www.leetcode.com/dhruvvv1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvvv1307" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruvvv_1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvvv_1307" height="30" width="40" /></a>
-</p>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/dhurvvv_1307" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dhurvvv_1307" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/dhruvvv_1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/dhruvvv_1307" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/sUJsy7be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sUJsy7be" height="30" width="40" /></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
