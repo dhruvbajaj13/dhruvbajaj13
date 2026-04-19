@@ -33,14 +33,9 @@
 
 ## 🔗 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/dhruvbajaj13" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://www.leetcode.com/Dhruv-Bajaj13" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-<a href="https://instagram.com/dhruvvv_1307" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-<a href="https://www.codechef.com/users/dhruvvv_1307" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/></a>
-<a href="https://codeforces.com/profile/dhruvvv_1307" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>
-<a href="https://discord.gg/sUJsy7be" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
-</p>
+| | | | | | |
+|---|---|---|---|---|---|
+|<a href="https://linkedin.com/in/dhruvbajaj13"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>|<a href="https://www.leetcode.com/Dhruv-Bajaj13"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>|<a href="https://instagram.com/dhruvvv_1307"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/></a>|<a href="https://www.codechef.com/users/dhruvvv_1307"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40"/></a>|<a href="https://codeforces.com/profile/dhruvvv_1307"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="40"/></a>|<a href="https://discord.gg/sUJsy7be"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="40"/></a>|
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # TechStack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
