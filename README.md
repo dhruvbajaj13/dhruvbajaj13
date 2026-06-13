@@ -33,8 +33,6 @@
 
 ## 🔗 Connect With Me
 
-| | | | | | |
-|---|---|---|---|---|---|
 |<a href="https://linkedin.com/in/dhruvbajaj13"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>|<a href="https://www.leetcode.com/Dhruv-Bajaj13"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>|<a href="https://instagram.com/dhruvvv_1307"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/></a>|<a href="https://www.codechef.com/users/dhruvvv_1307"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40"/></a>|<a href="https://codeforces.com/profile/dhruvvv_1307"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="40"/></a>|<a href="https://discord.gg/sUJsy7be"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="40"/></a>|
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
