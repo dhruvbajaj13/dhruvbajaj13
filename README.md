@@ -53,7 +53,7 @@ I'm a **3rd-year ECE (IoT) student at NSUT (Netaji Subhas University of Technolo
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/">
+  <a href="https://www.geeksforgeeks.org/profile/d4ba0ewg">
     <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="52" height="52" alt="GeeksforGeeks">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -111,7 +111,7 @@ I'm a **3rd-year ECE (IoT) student at NSUT (Netaji Subhas University of Technolo
 </a>
 </td>
 <td align="center" width="140">
-<a href="https://portfoliodhruv.vercel.app">
+<a href="https://dhruvbajaj.vercel.app">
 <img src="https://img.icons8.com/fluency/48/domain.png" width="42" height="42" alt="Portfolio"/>
 <br><sub><b>Portfolio</b></sub>
 </a>
