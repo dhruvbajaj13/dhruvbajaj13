@@ -1,129 +1,102 @@
 <div align="center">
 
-<h1>
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Dhruv Bajaj
-</h1>
+  <h1>
+    Hi
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+    I'm Dhruv Bajaj
+  </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer+%7C+Full+Stack+Developer;DSA+%7C+Java;MERN+Stack+Developer;AI+%26+LLM+Application+Builder;Building+Scalable+%26+Impactful+Software" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=700&height=65&lines=%F0%9F%93%98+Currently+Learning+DSA;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Building+with+MERN+Stack;%E2%9A%A1+Problem+Solver+%7C+Software+Engineer"
+    alt="Typing SVG"
+  />
 
 </div>
 
 <br/>
 
-<table>
-<tr>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
 
-<td width="60%" valign="top">
+    <td width="60%" valign="top" style="border: none;">
 
-<h2>👨‍💻 About Me</h2>
+      <h2>👨‍💻 About Me</h2>
 
-<p>
-I'm an <b>Electronics and Communication Engineering (IoT)</b> student at
-<b>Netaji Subhas University of Technology (NSUT)</b>, passionate about
-building reliable software, solving challenging problems, and turning ideas
-into scalable applications.
-</p>
+      <p>
+        I'm an <b>Electronics and Communication Engineering (IoT)</b> student
+        at <b>Netaji Subhas University of Technology (NSUT)</b> with a strong
+        interest in <b>software engineering, problem solving, and full-stack development.</b>
+      </p>
 
-<ul>
+      <ul>
+        <li>🎓 Pursuing <b>ECE (IoT)</b> at <b>NSUT</b></li>
+        <li>💻 Strong foundation in <b>Data Structures & Algorithms using Java</b></li>
+        <li>🚀 Building scalable web applications using the <b>MERN Stack</b></li>
+        <li>🧩 Enjoy solving challenging problems and improving <b>algorithmic thinking</b></li>
+        <li>⚙️ Interested in <b>backend development, system design, scalable applications, and clean code</b></li>
+        <li>🌱 Continuously learning and improving my development skills</li>
+        <li>🎯 Preparing for <b>SDE / Software Engineering Intern</b> opportunities</li>
+      </ul>
 
-<li>🎓 Pursuing <b>ECE (IoT)</b> at <b>NSUT</b></li>
+    </td>
 
-<li>💻 Strong foundation in <b>Data Structures & Algorithms using Java</b></li>
+    <td width="40%" valign="middle" align="center" style="border: none;">
 
-<li>🚀 Building full-stack applications with the <b>MERN Stack</b></li>
+      <img
+        src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
+        width="330px"
+        alt="Coding Animation"
+      />
 
-<li>🤖 Building <b>AI-powered applications</b> using LangChain, RAG, LLMs,
-Vector Databases & Agentic Workflows</li>
+    </td>
 
-<li>⚙️ Interested in <b>System Design, Scalable Architecture, Backend
-Engineering & Clean Code</b></li>
-
-<li>🌱 Currently preparing for <b>SDE / Software Engineering Intern</b> roles</li>
-
-<li>🤝 Open to <b>collaborations, interesting projects & opportunities</b></li>
-
-</ul>
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"
-  width="330px"
-  alt="Coding Animation"/>
-
-</td>
-
-</tr>
+  </tr>
 </table>
 
 <br/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<h3 align="center">Languages</h3>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
-
-</p>
-
-<h3 align="center">Frontend & Backend</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux" />
-
-</p>
-
-<h3 align="center">Databases & AI</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_DB-0A192F?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/Embeddings-5A29E4?style=for-the-badge&logo=google&logoColor=white" />
-
-</p>
-
-<h3 align="center">Tools & Platforms</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite,netlify" />
+  <img
+    src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,nodejs,express,tailwind,redux,mongodb,mysql,git,github,vscode,postman,npm,vite,netlify,docker,aws&perline=8"
+    alt="Tech Stack"
+  />
 
 </p>
 
 <br/>
 
-<h2 align="center">🧠 Competitive Programming & DSA</h2>
+<h2 align="center">🚀 Coding Profiles</h2>
 
 <p align="center">
-  I regularly practice <b>Data Structures & Algorithms</b> and
-  problem solving to strengthen my programming fundamentals.
+
+  <a href="https://leetcode.com/nobodyknowswhy">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" height="55" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/profile/dhruvvv_1307">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55" height="55" alt="GeeksforGeeks"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/dhruvvv_1307">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="55" height="55" alt="CodeChef"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/dhruvvv_1307">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55" height="55" alt="Codeforces"/>
+  </a>
+
 </p>
 
+<br/>
+
 <p align="center">
-
-<a href="https://www.leetcode.com/nobodyknowswhy">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.codechef.com/users/dhruvvv_1307">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-<a href="https://codeforces.com/profile/dhruvvv_1307">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
+  <img src="./leetcode-stats.png" width="90%" alt="LeetCode Activity"/>
 </p>
 
 <br/>
@@ -131,25 +104,26 @@ Engineering & Clean Code</b></li>
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
+
   <a href="https://linkedin.com/in/dhruvbajaj13">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:d4bajaj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/dhruvvv_1307">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="52" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://discord.gg/sUJsy7be">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=discord" width="52" alt="Discord"/>
   </a>
+
 </p>
 
 <br/>
-
-<p align="center">
-  <i>Building. Learning. Solving. Shipping.</i>
-</p>
