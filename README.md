@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20Dhruv%20Bajaj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20crafting%20full-stack%20%26%20AI-powered%20experiences&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20I%20am%20Dhruv%20Bajaj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20crafting%20full-stack%20and%20AI-powered%20experiences&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+MERN+Stack;%F0%9F%A7%A0+DSA+%2B+Competitive+Programming;%F0%9F%A4%96+Building+AI+Agents+%26+LLM+Tools;%F0%9F%8E%AF+Hunting+for+SDE+Roles" alt="Typing SVG">
 
@@ -103,21 +103,46 @@ I like taking an idea from a blank file to something that actually runs in produ
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="140">
 <a href="https://linkedin.com/in/dhruvbajaj13">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+<br><sub><b>LinkedIn</b></sub>
 </a>
+</td>
+<td align="center" width="140">
 <a href="mailto:d4bajaj@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
+<br><sub><b>Gmail</b></sub>
 </a>
+</td>
+<td align="center" width="140">
+<a href="https://github.com/dhruvbajaj13">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>
+<br><sub><b>GitHub</b></sub>
+</a>
+</td>
+<td align="center" width="140">
 <a href="https://instagram.com/dhruvvv_1307">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
+<br><sub><b>Instagram</b></sub>
 </a>
+</td>
+<td align="center" width="140">
 <a href="https://discord.gg/sUJsy7be">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27"/>
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40" alt="Discord"/>
+<br><sub><b>Discord</b></sub>
 </a>
+</td>
+<td align="center" width="140">
 <a href="https://portfoliodhruv.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27"/>
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40" height="40" alt="Portfolio"/>
+<br><sub><b>Portfolio</b></sub>
 </a>
+</td>
+</tr>
+</table>
 
 </div>
 
